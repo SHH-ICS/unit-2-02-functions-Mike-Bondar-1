@@ -3,3 +3,6 @@
 
 def myFunction():
   # My Function
+  return ("Hello World!")
+
+print(myFunction)
